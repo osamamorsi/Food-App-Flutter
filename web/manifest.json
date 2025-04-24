@@ -1,6 +1,6 @@
 {
-    "name": "flutter_task",
-    "short_name": "flutter_task",
+    "name": "Food App Flutter",
+    "short_name": "food_app_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

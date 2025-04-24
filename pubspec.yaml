@@ -55,7 +55,7 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   assets:
-    - assets/nagy.jpg
+    - assets/osama.jpg
     -  assets/google.png
     - assets/facebook.png
     - assets/food.png

@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       builder: (_, child) {
         return MaterialApp(
           debugShowCheckedModeBanner: false,
-          title: 'First Method',
+          title: 'Food App',
           theme: ThemeData(
             primarySwatch: Colors.blue,
             textTheme: Typography.englishLike2018.apply(fontSizeFactor: 1.sp),
@@ -78,8 +78,8 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
               width: 311.h,
               height: 500.w,
               decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(50),
-                color: Colors.orangeAccent.withOpacity(0.90),
+                borderRadius: BorderRadius.circular(40),
+                color: Colors.orangeAccent.withOpacity(0.80),
               ),
               child: CarouselSlider(
                 carouselController: controller,
